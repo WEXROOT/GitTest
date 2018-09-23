@@ -8,10 +8,10 @@ package com.test.git;
  */
 public class Merage {
     public static void main(String[] args) {
-        System.out.println("------------------");
-        System.out.println("------------------");
-        System.out.println("------------------");
-        System.out.println("------------------");
-        System.out.println("------------------");
+        System.out.println("--------Merage----------");
+        System.out.println("---------Merage---------");
+        System.out.println("-------Merage-----------");
+        System.out.println("------Merage------------");
+        System.out.println("-------Merage-----------");
     }
 }
