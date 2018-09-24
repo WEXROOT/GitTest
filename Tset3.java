@@ -11,10 +11,10 @@ public class Tset3 {
         System.out.println("------------Tset3--------------");
         System.out.println("------------Tset3--------------");
         System.out.println("------------Tset3--------------");
+        System.out.println("------------Tset2--------------");
         System.out.println("------------Tset3--------------");
-        System.out.println("------------Tset3--------------");
-        System.out.println("------------Tset3--------------");
-        System.out.println("------------Tset3--------------");
-        System.out.println("------------Tset3--------------");
+        System.out.println("------------Tset42--------------");
+        System.out.println("------------Tset4--------------");
+        System.out.println("------------Tset4--------------");
     }
 }
